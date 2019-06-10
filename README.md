@@ -6,5 +6,6 @@
 - copyflagdummy.py : copies a dummy flag with given TAG's
 - deletestate.py : deletes a state inside history/states with ID (optimized for MapGen, change syntax if in need)
 - blankallfiles.py : blanks all files inside current directory
+- religionscrapper.py : (only usable on eoanb) gets all religions of all countries inside history folder into output txt
 
 made by TPS-Geronam with Python 2.7
