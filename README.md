@@ -15,3 +15,7 @@ Comments out duplicate loc keys by first letting you select the `text.log` (auto
 ### Requirements:
 - Java 8
 - (optional) Python 2.7
+
+### .NET tools:
+- Province Inspector: [GitHub repo](https://github.com/TPS-Geronam/HOI4-Province-Inspector)
+- MHC Editor: wip
