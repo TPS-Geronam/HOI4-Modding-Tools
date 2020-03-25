@@ -18,4 +18,4 @@ Comments out duplicate loc keys by first letting you select the `text.log` (auto
 
 ### .NET tools:
 - Province Inspector: [GitHub repo](https://github.com/TPS-Geronam/HOI4-Province-Inspector)
-- MHC Editor: wip [GitHub repo](https://github.com/TPS-Geronam/HOI4-MHCEditor)
+- MHC Editor: [GitHub repo](https://github.com/TPS-Geronam/HOI4-MHCEditor)
