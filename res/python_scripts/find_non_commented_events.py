@@ -71,4 +71,3 @@ with open('__output.txt', 'w') as o:
 		else:
 			print "Encountered self, skipping."
 input("Press enter to exit the script.")
-	
