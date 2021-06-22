@@ -13,6 +13,7 @@ Comments out duplicate loc keys by first letting you select the `text.log` (auto
 - removereligion.py : (only usable on eoanb) removes all religions from adjacent country history files
 - find_empty_used_loc_keys.py : finds all localisation keys within /localisation without inner text (`key:0 ""`)
 - find_non_commented_events.py : finds all event IDs without a comment near them
+- find_files_with_unequal_counts.py : lets the user input multiple characters; outputs files in which said characters appear an unequal amount
 
 ### Requirements:
 - Java 8
