@@ -17,4 +17,4 @@ with open('__output.txt', 'w') as o:
 		#File is self
 		else:
 			print "Encountered self, skipping."
-input("Press enter to exit the script.")
+raw_input("Press enter to exit the script.")

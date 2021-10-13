@@ -4,7 +4,7 @@ dir = os.listdir(os.getcwd())
 
 inp = ""
 while (inp == ""):
-	inp = str(input("Enter characters to search for: ")).replace("\n", "")
+	inp = str(raw_input("Enter characters to search for: ")).replace("\n", "")
 
 #Create output file
 with open('__output.txt', 'w') as o:
@@ -21,4 +21,4 @@ with open('__output.txt', 'w') as o:
 		#File is self
 		else:
 			print "Encountered self, skipping."
-input("Press enter to exit the script.")
+raw_input("Press enter to exit the script.")

@@ -10,4 +10,4 @@ for tag in data:
 	#Construction of the copied file's name
 	desfile = os.getcwd() + "\\" + tag + ".tga"
 	shutil.copy(srcfile, desfile)
-input("Press enter to exit the script.")
+raw_input("Press enter to exit the script.")

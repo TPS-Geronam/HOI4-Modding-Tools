@@ -6,7 +6,7 @@ import re
 #1234 = ID
 #Goes through all the files in current directory, assumes script lies next to files
 dir = os.listdir(os.getcwd())
-x = input("State ID to delete: ")
+x = raw_input("State ID to delete: ")
 for filename in dir:
 	#Check whether current file is not self
 	if filename != "deletestate.py":
@@ -37,4 +37,4 @@ for filename in dir:
 	#File is self
 	else:
 		print "Encountered self, skipping."
-input("Press enter to exit the script.")
+raw_input("Press enter to exit the script.")

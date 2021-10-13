@@ -9,4 +9,4 @@ for id in data:
     newText = f.read().replace(' ' + id + ' ', ' ')
   with open('1-World.txt', "w") as f:
     f.write(newText)
-input("Press enter to exit the script.")
+raw_input("Press enter to exit the script.")
